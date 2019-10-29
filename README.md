@@ -1,2 +1,0 @@
-# ReactBurgerBuilderApp
-Created with CodeSandbox
